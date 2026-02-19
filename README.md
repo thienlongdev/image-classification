@@ -1,4 +1,4 @@
-\# Image Classification with CNN (CIFAR-10)
+# Image Classification with CNN (CIFAR-10)
 
 
 
@@ -234,15 +234,15 @@ Sample input images:
 
 
 
-\- airplane
+- airplane
 
-\- bird
+- bird
 
-\- frog
+- frog
 
-\- horse
+- horse
 
-\- truck
+- truck
 
 
 
@@ -266,24 +266,6 @@ Image: frog1.jpg → Predicted class: frog
 
 ## Requirements
 
-
-
-Main dependencies:
-
-
-
-\- torch
-
-\- torchvision
-
-\- tensorboard
-
-\- numpy
-
-\- pillow
-
-
-
 Install with:
 
 
@@ -300,37 +282,19 @@ pip install -r requirements.txt
 
 
 
-\## ✨ Features
+## Features
 
 
 
-✔ Custom CNN  
+- Custom CNN  
 
-✔ Checkpoint saving (best \& last)  
+- Checkpoint saving (best \& last)  
 
-✔ TensorBoard logging  
+- TensorBoard logging  
 
-✔ Inference script  
+- Inference script  
 
-✔ Clean project structure  
-
-
-
----
-
-
-
-\## 📌 Future Improvements
-
-
-
-\- Add ResNet18 option
-
-\- Add validation accuracy plot
-
-\- Add confusion matrix
-
-\- Deploy with Streamlit
+- Clean project structure  
 
 
 
@@ -338,13 +302,20 @@ pip install -r requirements.txt
 
 
 
-\## 👤 Author
+## Future Improvements
 
 
 
-Your Name  
+- Add ResNet18 option
 
-GitHub: https://github.com/YOUR\_USERNAME
+- Add validation accuracy plot
 
+- Add confusion matrix
+
+- Deploy with Streamlit
+
+
+
+---
 
 
