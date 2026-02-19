@@ -1,4 +1,4 @@
-\# 🖼️ Image Classification with CNN (CIFAR-10)
+\# Image Classification with CNN (CIFAR-10)
 
 
 
@@ -12,7 +12,7 @@ The model is trained on CIFAR-10 dataset and supports training, checkpoint savin
 
 
 
-\## 📂 Project Structure
+## Project Structure
 
 
 
@@ -22,7 +22,7 @@ Image-Classification/
 
 │
 
-├── checkpoints/        # Saved models (ignored in git)
+├── checkpoints/        # Saved models 
 
 ├── images/             # Demo images for inference
 
@@ -50,19 +50,19 @@ Image-Classification/
 
 
 
-\## 🧠 Model
+## Model
 
 
 
-\- Custom CNN
+- Custom CNN
 
-\- Trained on CIFAR-10
+- Trained on CIFAR-10
 
-\- Input size: 224x224
+- Input size: 224x224
 
-\- Optimizer: Adam
+- Optimizer: Adam
 
-\- Loss: CrossEntropyLoss
+- Loss: CrossEntropyLoss
 
 
 
@@ -70,25 +70,25 @@ Image-Classification/
 
 
 
-\## 🚀 Installation
+## Installation
 
 
 
-\### 1️⃣ Clone repo
+### Clone repo
 
 
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/Image-Classification.git
+git clone https://github.com/thienlongdev/image-classification.git
 
-cd Image-Classification
+cd image-classification
 
 ```
 
 
 
-\### 2️⃣ Create virtual environment (optional but recommended)
+### Create virtual environment
 
 
 
@@ -102,7 +102,7 @@ python -m venv .venv
 
 
 
-\### 3️⃣ Install dependencies
+### Install dependencies
 
 
 
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 
 
-\## 🏋️ Training
+## Training
 
 
 
@@ -162,7 +162,7 @@ checkpoints/
 
 
 
-\## 📊 TensorBoard
+## TensorBoard
 
 
 
@@ -194,7 +194,7 @@ http://localhost:6006
 
 
 
-\## 🔍 Inference
+## Inference
 
 
 
@@ -226,7 +226,7 @@ images/
 
 
 
-\## 🖼️ Demo Images
+## Demo Images
 
 
 
@@ -264,7 +264,7 @@ Image: frog1.jpg → Predicted class: frog
 
 
 
-\## 📦 Requirements
+## Requirements
 
 
 
